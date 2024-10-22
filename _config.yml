@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: KOALA‘s Home
     link: /
-  - title: 科研项目 Research
-    link: /research.html
-  - title: 论文 Publications
-    link: /publications.html
+  - title: 个人简历 personal resume
+    link: /personal resume.html
+  - title: 兴趣爱好 hobbies
+    link: /hobbies.html
